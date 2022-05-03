@@ -3,13 +3,13 @@ Getting and Cleaning Data Course Project
 R. Howell 
 
 ### Files included: 
-o README.md
-o Codebook.Rmd
-o run_analysis.R **contains complete script to read, clean, and analyze**
-o raw_data.zip **initial download**
-o clean_data.txt **processed data with steps below**
-o summary_activity_data.txt **mean of variable by activity**
-o summary_id_data.txt **mean of variable by test subject**
+* README.md
+* Codebook.Rmd
+* run_analysis.R **contains complete script to read, clean, and analyze**
+* raw_data.zip **initial download**
+* clean_data.txt **processed data with steps below**
+* summary_activity_data.txt **mean of variable by activity**
+* summary_id_data.txt **mean of variable by test subject**
 
 ### Data Processing Workflow: 
 
